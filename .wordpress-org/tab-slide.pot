@@ -1,0 +1,485 @@
+# Copyright (C) 2014 Tab Slide
+# This file is distributed under the same license as the Tab Slide package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tab Slide 2.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/tab-slide\n"
+"POT-Creation-Date: 2014-03-24 16:36:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: php/settings.php:16
+msgid ""
+"Do you want multiple instances, premium support and more? Check out <a href="
+"\"http://store.zoranc.co/downloads/tab-slide-pro/\" class=\"button-primary\" "
+"title=\"Tab Slide Pro\" target=\"_blank\">TAB SLIDE PRO</a> right now!<a "
+"href=\"%1$s\" style=\"float:right;\">Dismiss</a>"
+msgstr ""
+
+#: php/settings.php:117
+msgid "Settings Saved"
+msgstr ""
+
+#: php/settings.php:126
+msgid "Save Changes"
+msgstr ""
+
+#: php/settings.php:139
+msgid "Startup Settings"
+msgstr ""
+
+#: php/settings.php:145
+msgid "Left"
+msgstr ""
+
+#: php/settings.php:146
+msgid "Right"
+msgstr ""
+
+#: php/settings.php:150
+msgid "Start in open tab slide view"
+msgstr ""
+
+#: php/settings.php:152
+msgid ""
+"Determines whether the tab slide content is initially shown when the page is "
+"loaded."
+msgstr ""
+
+#: php/settings.php:157
+msgid "Enable Auto-Open Timer"
+msgstr ""
+
+#: php/settings.php:163
+msgid "Enable Auto-Hide Timer"
+msgstr ""
+
+#: php/settings.php:168
+msgid "Wait for:"
+msgstr ""
+
+#: php/settings.php:170 php/settings.php:435
+msgid "seconds"
+msgstr ""
+
+#: php/settings.php:176
+msgid "Slide Content Settings"
+msgstr ""
+
+#: php/settings.php:182
+msgid "Use Borders:"
+msgstr ""
+
+#: php/settings.php:184 php/settings.php:357
+msgid "No"
+msgstr ""
+
+#: php/settings.php:185 php/settings.php:356
+msgid "Yes"
+msgstr ""
+
+#: php/settings.php:188
+msgid "-> Offset closed slide by:"
+msgstr ""
+
+#: php/settings.php:194
+msgid "Slide width:"
+msgstr ""
+
+#: php/settings.php:199
+msgid "Slide height:"
+msgstr ""
+
+#: php/settings.php:209
+msgid "Vertical position from top:"
+msgstr ""
+
+#: php/settings.php:213
+msgid ""
+"The size and vertical positioning settings.<br /> Width and Height values "
+"can be dealt with either in percentages or pixels."
+msgstr ""
+
+#: php/settings.php:217
+msgid "Template:"
+msgstr ""
+
+#: php/settings.php:221
+msgid "Subscribe"
+msgstr ""
+
+#: php/settings.php:222
+msgid "WPLogin"
+msgstr ""
+
+#: php/settings.php:223
+msgid "Widget"
+msgstr ""
+
+#: php/settings.php:224
+msgid "Post"
+msgstr ""
+
+#: php/settings.php:225
+msgid "iFrame"
+msgstr ""
+
+#: php/settings.php:226
+msgid "Picture"
+msgstr ""
+
+#: php/settings.php:227
+msgid "Video"
+msgstr ""
+
+#: php/settings.php:228
+msgid "Custom"
+msgstr ""
+
+#: php/settings.php:234
+msgid "Tab Slide Widget Area Enabled."
+msgstr ""
+
+#: php/settings.php:238
+msgid "Post ID: "
+msgstr ""
+
+#: php/settings.php:241
+msgid "example: 2"
+msgstr ""
+
+#: php/settings.php:245
+msgid "iFrame Url: "
+msgstr ""
+
+#: php/settings.php:248
+msgid "example: http://www.google.com/"
+msgstr ""
+
+#: php/settings.php:252
+msgid "Picture Url: "
+msgstr ""
+
+#: php/settings.php:255
+msgid "example: http://www.google.com/picture.jpg"
+msgstr ""
+
+#: php/settings.php:259
+msgid "Video Url: "
+msgstr ""
+
+#: php/settings.php:262
+msgid ""
+"example: http://www.youtube.com/v/9yl_XPkcTl4 <br/ >Note: Video URL format"
+msgstr ""
+
+#: php/settings.php:266
+msgid "Window Url Path:"
+msgstr ""
+
+#: php/settings.php:269
+msgid ""
+"<b>IMPORTANT NOTE:</b> Place your custom templates in your child theme "
+"directry to avoid the custom templates from being overwritten on tab slide "
+"plugin updates"
+msgstr ""
+
+#: php/settings.php:277
+msgid "Background Settings"
+msgstr ""
+
+#: php/settings.php:281
+msgid "Background (Path or Color):"
+msgstr ""
+
+#: php/settings.php:284
+msgid ""
+"You can use the color picker or simply use the image location eg. http://www."
+"yoursite.com/background.jpg"
+msgstr ""
+
+#: php/settings.php:289
+msgid "Opacity:"
+msgstr ""
+
+#: php/settings.php:294
+msgid ""
+"The background opacity.<br />  Any value between 0 (transparent) and 100 "
+"(opaque)"
+msgstr ""
+
+#: php/settings.php:300 php/settings.php:442
+msgid "TAB Settings"
+msgstr ""
+
+#: php/settings.php:304
+msgid "Position from top:"
+msgstr ""
+
+#: php/settings.php:307
+msgid ""
+"Vertical tab position relative to slide content height.<br /> Use any value "
+"between 0 (top of slide) and 100 (bottom of slide)"
+msgstr ""
+
+#: php/settings.php:311
+msgid "Vertical TAB Size:"
+msgstr ""
+
+#: php/settings.php:317
+msgid "Horizontal TAB Size:"
+msgstr ""
+
+#: php/settings.php:324
+msgid "Font Settings"
+msgstr ""
+
+#: php/settings.php:328
+msgid "Font:"
+msgstr ""
+
+#: php/settings.php:334
+msgid "Font Size:"
+msgstr ""
+
+#: php/settings.php:340
+msgid "Font Color:"
+msgstr ""
+
+#: php/settings.php:350
+msgid "Tab Slide Style"
+msgstr ""
+
+#: php/settings.php:354
+msgid "CSS Only Mode:"
+msgstr ""
+
+#: php/settings.php:361
+msgid ""
+"You can switch to css only mode and use cssonly.css to set up your tab slide."
+msgstr ""
+
+#: php/settings.php:362
+msgid ""
+"Note: If in CSS only mode, make sure you fill out the remaining settings "
+"that you will be using in your css as they are necessary for calculations "
+"and such"
+msgstr ""
+
+#: php/settings.php:371
+msgid "Visual Settings"
+msgstr ""
+
+#: php/settings.php:375
+msgid "Devices:"
+msgstr ""
+
+#: php/settings.php:378
+msgid "Show on all devices"
+msgstr ""
+
+#: php/settings.php:379
+msgid "Show on mobiles only"
+msgstr ""
+
+#: php/settings.php:380
+msgid "Show on desktops only"
+msgstr ""
+
+#: php/settings.php:385
+msgid "Authentication:"
+msgstr ""
+
+#: php/settings.php:388
+msgid "Show to all visitors"
+msgstr ""
+
+#: php/settings.php:389
+msgid "Show only to logged in visitors"
+msgstr ""
+
+#: php/settings.php:390
+msgid "Show only to logged out visitors"
+msgstr ""
+
+#: php/settings.php:394
+msgid "Include tabslide on:"
+msgstr ""
+
+#: php/settings.php:398
+msgid "Use the <b>[tabslide]</b> shortcode."
+msgstr ""
+
+#: php/settings.php:404
+msgid "Include on all pages."
+msgstr ""
+
+#: php/settings.php:410
+msgid "Include only on page ID(s):"
+msgstr ""
+
+#: php/settings.php:418
+msgid "Exclude from page ID(s):"
+msgstr ""
+
+#: php/settings.php:421
+msgid "example: 2, 3, 55"
+msgstr ""
+
+#: php/settings.php:425
+msgid "Disable pages:"
+msgstr ""
+
+#: php/settings.php:428
+msgid "example: template.php"
+msgstr ""
+
+#: php/settings.php:433
+msgid "Closing Speed:"
+msgstr ""
+
+#: php/settings.php:436
+msgid "Set how long it takes for the tab to close."
+msgstr ""
+
+#: php/settings.php:447
+msgid "Tab Image"
+msgstr ""
+
+#: php/settings.php:452
+msgid "Image Path:"
+msgstr ""
+
+#: php/settings.php:460
+msgid "Tab Title"
+msgstr ""
+
+#: php/settings.php:464
+msgid "Closed View:"
+msgstr ""
+
+#: php/settings.php:468
+msgid "Opened View:"
+msgstr ""
+
+#: php/settings.php:475
+msgid "OPEN Text Offset:"
+msgstr ""
+
+#: php/settings.php:481
+msgid "CLOSE Text Offset:"
+msgstr ""
+
+#: php/settings.php:487
+msgid "Color:"
+msgstr ""
+
+#: php/settings.php:490
+msgid "Set the color of the tab as well as ALL the borders."
+msgstr ""
+
+#: php/settings.php:495
+msgid "Tab Font Size:"
+msgstr ""
+
+#: php/settings.php:506
+msgid "Thank you for using Tab Slide!"
+msgstr ""
+
+#: php/settings.php:507
+msgid "Rate"
+msgstr ""
+
+#: php/settings.php:507
+msgid "Blog and spread the word to help support this plugin."
+msgstr ""
+
+#: php/settings.php:508
+msgid "Donate"
+msgstr ""
+
+#: php/settings.php:509
+msgid "Donate via bitCoin"
+msgstr ""
+
+#: php/settings.php:510
+msgid "Donate via PayPal"
+msgstr ""
+
+#: php/settings.php:511
+msgid "Suggestions, Issues?"
+msgstr ""
+
+#: php/settings.php:512
+msgid "Check out the"
+msgstr ""
+
+#: php/settings.php:512
+msgid "Tab Slide Forum"
+msgstr ""
+
+#: php/settings.php:512
+msgid ""
+"and post your questions there, as this way the rest of the WP community can "
+"benefit."
+msgstr ""
+
+#: php/settings.php:513
+msgid "Do you want multiple instances? Premium Support?"
+msgstr ""
+
+#: php/settings.php:514
+msgid "Get"
+msgstr ""
+
+#: php/settings.php:514
+msgid "TAB SLIDE PRO"
+msgstr ""
+
+#: php/settings.php:514
+msgid "right now!"
+msgstr ""
+
+#: php/settings.php:545
+msgid "Last updated: %s"
+msgstr ""
+
+#: php/settings.php:549
+msgid "(Average rating based on %s ratings)"
+msgstr ""
+
+#: php/settings.php:557
+msgid "(%s ratings)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Tab Slide"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/tab-slide/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easy to use, yet powerful and a highly customizable sliding shelf for your "
+"site! Slide your target content/widget into and out of the visible page. The "
+"content can contain forms, widgets, videos, pictures, posts, menu options, "
+"comments, logins, sign-ups, popoup ads etc. The settings page appears in the "
+"Dashboard settings menu, where you can set all your tab slide options such "
+"as page source, size, positioning, autohide, opacity and much more. No "
+"coding skills are required to implement this functionality on your WordPress "
+"site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Zoran C."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://zoranc.co/"
+msgstr ""
